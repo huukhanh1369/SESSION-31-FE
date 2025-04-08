@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-size: 52px;
+}
+
+table {
+    width: 40%;
+    margin: auto;
+    font-size: 18px;
+    border-spacing: 3px;
+    border: 1px solid b;
+}
+
+th,
+td {
+    border: 2px solid gray;
+    padding: 8px 12px;
+    text-align: center;
+
+
+}
